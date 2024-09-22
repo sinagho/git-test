@@ -14,5 +14,8 @@ print("end")
 
 print("the code is ended.")
 
+def addition(x, y):
+    return x + y
+
 def area(x):
     return x
