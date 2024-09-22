@@ -13,3 +13,6 @@ else:
 print("end")
 
 print("the code is ended.")
+
+def area(x):
+    return x
