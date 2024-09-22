@@ -19,3 +19,6 @@ def addition(x, y):
 
 def area(x):
     return x
+
+def subtraction(x, y):
+    return x - y
