@@ -17,8 +17,10 @@ print("the code is ended.")
 def addition(x, y):
     return x + y
 
-def area(x):
-    return x
+def area(x, y, z):
+    if z == 4:
+        return x * y
+    else: return (x * y) + 3
 
 def subtraction(x, y):
     return x - y
