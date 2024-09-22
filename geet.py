@@ -17,8 +17,15 @@ print("the code is ended.")
 def addition(x, y):
     return x + y
 
+<<<<<<< HEAD
 def area(x, y = 5):
     return x + (y ** 3)
+=======
+def area(x, y, z):
+    if z == 4:
+        return x * y
+    else: return (x * y) + 3
+>>>>>>> non-FastForward-Conf
 
 def subtraction(x, y):
     return x - y
