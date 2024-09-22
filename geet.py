@@ -16,3 +16,6 @@ print("the code is ended.")
 
 def area(x):
     return x
+
+def subtraction(x, y):
+    return x - y
