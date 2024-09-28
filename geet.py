@@ -31,3 +31,9 @@ print('I do not love you')
 
 def user(name):
     return True
+
+def login(user, password):
+    return str(user)
+
+def delete(user, password):
+    return "the user is deleted"
