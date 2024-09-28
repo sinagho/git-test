@@ -37,3 +37,6 @@ def login(user, password):
 
 def delete(user, password):
     return "the user is deleted"
+
+def signup(user, password):
+    return "the user is sigend"
