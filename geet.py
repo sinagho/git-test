@@ -28,3 +28,6 @@ def subtraction(x, y):
 print("*" * 40)
 print('I love you')
 print('I do not love you')
+
+def user(name):
+    return True
