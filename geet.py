@@ -25,4 +25,4 @@ def area(x, y, z):
 def subtraction(x, y):
     return x - y
 
-print("*" * 40)
+print("*" * 40) 
