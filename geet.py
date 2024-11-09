@@ -26,3 +26,8 @@ def subtraction(x, y):
     return x - y
 
 print("*" * 40)
+
+a = 'amir'
+b = "sina"
+
+c = a * b
