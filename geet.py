@@ -31,3 +31,5 @@ a = 'amir'
 b = "sina"
 
 c = a * b
+
+d = 'saba'
