@@ -30,4 +30,5 @@ print("*" * 40)
 a = 'amir'
 b = "sina"
 
+print(a * 2)
 c = a * b
